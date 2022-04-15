@@ -1,2 +1,2 @@
-# Data-Science-Machine-Learning
-data science with python.
+# Data-Science and Machine-Learning
+Compilation of data science projects using Python and Julia.
